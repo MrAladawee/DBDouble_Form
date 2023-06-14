@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kA6+S+9VWG5xGszGqs3hcKP4dnP7hGrlMyI+VA8w4NJOPCEJZQ4U8eSf0DkzdfMblISp8YHZ87SwCCQIBK1fpQ==",
+  "success": true,
+  "projectFilePath": "D:\\ProjectC\\C#\\MM_DataBinding\\MM_DataBinding\\MM_DataBinding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
